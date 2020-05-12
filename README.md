@@ -4,16 +4,16 @@ equations.
 
 Cite this tutorial as follows 
 
-@misc{avitabile2020,
-  author       = {Daniele Avitabile},
+@misc{avitabile2020,<br/>
+  author       = {Daniele Avitabile},<br/>
   title        = {{Numerical Computation of Coherent Structures in 
-                   Spatially-Extended Systems}},
-  month        = may,
-  year         = 2020,
-  publisher    = {Zenodo},
-  version      = {v1.2-alpha},
-  doi          = {10.5281/zenodo.3821169},
-  url          = {https://doi.org/10.5281/zenodo.3821169}
+                   Spatially-Extended Systems}},<br/>
+  month        = may,<br/>
+  year         = 2020,<br/>
+  publisher    = {Zenodo},<br/>
+  version      = {v1.2-alpha},<br/>
+  doi          = {10.5281/zenodo.3821169},<br/>
+  url          = {https://doi.org/10.5281/zenodo.3821169}<br/>
 }
 
 TODO:
